@@ -1,0 +1,8 @@
+ Q2 . List some of advantages of javaScript:
+Ans:
+-Simplicity.Javascript is relatively simple to learn and implement.
+-Gives the ability to create rich interfaces.
+-Speed. Client-side JavaScript is very fast because it can be run immediately within the client-side browser.
+-Interactity is high.
+-Popularity. Javascript is used everywhere on the web.
+-Its server interaction is less.
